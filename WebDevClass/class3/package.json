@@ -1,0 +1,15 @@
+{
+  "name": "class3",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "author": "safwan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "class3": "file:"
+  }
+}

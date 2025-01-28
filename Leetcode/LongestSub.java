@@ -21,5 +21,6 @@ public class LongestSub {
         }
         
         System.out.println(maxCount);
+        inp.close();
     }
 }

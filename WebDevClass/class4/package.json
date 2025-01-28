@@ -1,0 +1,12 @@
+{
+  "name": "class4",
+  "version": "1.0.0",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node javascript.js"
+  },
+  "author": "safwan",
+  "license": "ISC",
+  "description": ""
+}

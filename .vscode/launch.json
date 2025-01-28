@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Split_the_Multiset",
+      "request": "launch",
+      "mainClass": "codeforces.Split_the_Multiset",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "A_String",
+      "request": "launch",
+      "mainClass": "codeforces.A_String",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Kevin_and_Arithmetic",
+      "request": "launch",
+      "mainClass": "codeforces.Kevin_and_Arithmetic",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
       "name": "LongestSub",
       "request": "launch",
       "mainClass": "LongestSub",
