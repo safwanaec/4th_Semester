@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BitImage",
+      "request": "launch",
+      "mainClass": "com.bitimage.java.BitImage",
+      "projectName": "puzzle"
+    },
+    {
+      "type": "java",
+      "name": "BitImageGPT",
+      "request": "launch",
+      "mainClass": "com.bitimage.java.BitImageGPT",
+      "projectName": "puzzle"
+    },
+    {
+      "type": "java",
+      "name": "Farmer_Johns_Card_Game",
+      "request": "launch",
+      "mainClass": "codeforces.Farmer_Johns_Card_Game",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacciness",
+      "request": "launch",
+      "mainClass": "codeforces.Fibonacciness",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Subsequence_Update",
+      "request": "launch",
+      "mainClass": "codeforces.Subsequence_Update",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Minimal_Coprime",
+      "request": "launch",
+      "mainClass": "codeforces.Minimal_Coprime",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Clockwork",
+      "request": "launch",
+      "mainClass": "codeforces.Clockwork",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
       "name": "Split_the_Multiset",
       "request": "launch",
       "mainClass": "codeforces.Split_the_Multiset",
