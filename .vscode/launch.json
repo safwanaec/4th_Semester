@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "A_String",
+      "request": "launch",
+      "mainClass": "codeforces.A_String",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "fibonacci",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Cost_of_the_Array",
+      "request": "launch",
+      "mainClass": "codeforces.Cost_of_the_Array",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "Milya_and_Two_Arrays",
+      "request": "launch",
+      "mainClass": "codeforces.Milya_and_Two_Arrays",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
       "name": "BitImage",
       "request": "launch",
       "mainClass": "com.bitimage.java.BitImage",
