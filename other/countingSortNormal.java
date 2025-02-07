@@ -1,4 +1,4 @@
-public class countingSort {
+public class countingSortNormal {
 
     public static void main(String[] args) {
         int[] arr = {2,5,4,3,2,0,0,1,1,4,9};

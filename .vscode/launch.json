@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StreakStar",
+      "request": "launch",
+      "mainClass": "codeChef.StreakStar",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "SMLPAL",
+      "request": "launch",
+      "mainClass": "codeChef.SMLPAL",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "a1",
+      "request": "launch",
+      "mainClass": "codeChef.a1",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
       "name": "countingSort",
       "request": "launch",
       "mainClass": "countingSort",
@@ -13,6 +34,13 @@
       "name": "mergeSort",
       "request": "launch",
       "mainClass": "mergeSort",
+      "projectName": "4th_Semester_110b115b"
+    },
+    {
+      "type": "java",
+      "name": "A_String",
+      "request": "launch",
+      "mainClass": "codeforces.A_String",
       "projectName": "4th_Semester_110b115b"
     },
     {
